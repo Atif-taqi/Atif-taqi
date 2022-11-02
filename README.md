@@ -6,7 +6,7 @@
 <a href="https://www.youtube.com/watch?v=T1bnRJFNjic"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=cab9ce&size=30&center=true&vCenter=true&width=550&height=50&lines=Hey+There+👋,+I'm+Mohammed+Atif+Taqi;Site+Reliability+Engineer+👨🏻‍💼;Loves+To+Solve+Incidents🛠;A+Problem+Solver+🕵;A+Automation+scripter+🔥; Infrastructure+Monitoring+🕵;">
+<img src="https://readme-typing-svg.herokuapp.com?color=cab9ce&size=30&center=true&vCenter=true&width=550&height=50&lines=Hey+There+👋,+I'm+Mohammed+Atif+Taqi;Site+Reliability+Engineer+👨🏻‍💼;Loves+To+Solve+Incidents🛠;A+Problem+Solver+🕵;A+Automation+scripter+🔥; Infrastructure+Monitoring+🕵">
 </p>
 <br>
 <hr>
