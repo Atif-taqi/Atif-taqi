@@ -1,6 +1,7 @@
 ## Hi Geeks, 👋
 
 ##### Welcome to my GitHub,
+I am Mohammed Atif Taqi, Site Reliability Engineer from Hyderabad
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AtifTaqi) [![Github](https://img.shields.io/github/followers/AtifTaqi?label=Follow&style=social)](https://github.com/atifTaqi)<a href="https://www.youtube.com/watch?v=T1bnRJFNjic"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
@@ -65,7 +66,12 @@
         - Solution Architect Associate (AWS Certified)
 ```     
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+### ⚙️ GitHub Analytics
 
+[![](https://github-readme-stats.vercel.app/api?username=AtifTaqi&show_icons=true&theme=tokyonight&hide_border=true&width=100%&locale=en)](https://github.com/AtifTaqi)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=AtifTaqi&theme=tokyonight&hide_border=true&width=100%)](https://github.com/AtifTaqi)
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### ⚙️ Connect with Me
 
