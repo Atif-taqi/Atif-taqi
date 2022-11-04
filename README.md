@@ -4,6 +4,8 @@
 I am Mohammed Atif Taqi, Site Reliability Engineer from Hyderabad
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AtifTaqi) [![Github](https://img.shields.io/github/followers/AtifTaqi?label=Follow&style=social)](https://github.com/atifTaqi)<a href="https://www.youtube.com/watch?v=T1bnRJFNjic"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+![](https://github.com/AtifTaqi/Atif-taqi/blob/9e3addefe49adb3ff8f4dc8cf50400aeecdd615c/Profile.gif)<!-- If you want the template for my gif, email me! -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=cab9ce&size=30&center=true&vCenter=true&width=550&height=50&lines=Hey+There+👋,+I'm+Atif+Taqi;Site+Reliability+Engineer+👨🏻‍💼;Loves+To+Solve+Incidents🛠;A+Automation+scripter+🔥;Infrastructure+Monitoring+🕵">
 </p>
