@@ -79,6 +79,16 @@ I am Mohammed Atif Taqi, Site Reliability Engineer from Hyderabad
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=5082e2&size=40&center=true&vCenter=true&width=550&height=40&lines=Connect+with+me">
+</p>
+
+<br>
+<div align="center">
+  <br>
+  <p><b>Thank you for your time.</b><br>
+    It was nice having you here.<br><br>
+    If you have any queries or just wanna say <i>Hi</i>,&nbsp;
+<p align="center">
 <a href="mailto:Atiftaqi_cloud@yahoo.com"><img src="https://img.shields.io/badge/Mail-D14936?style=for-the-badge&logo=gmail&logoColor=blue"/></a>
 <a href="https://www.linkedin.com/in/atiftaqi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="https://wa.me/%2B918686699660?text=This%20message%20from%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
