@@ -68,12 +68,88 @@ I am Mohammed Atif Taqi, Site Reliability Engineer from Hyderabad
         - Solution Architect Associate (AWS Certified)
 ```     
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+### Stats
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AtifTaqi)  
+
+![GitHub metrics](https://metrics.lecoq.io/AtifTaqi)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AtifTaqi)  
+
+<!--START_SECTION:waka-->
+
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-671245%20lines%20of%20code-blue)
+
+**🐱 My Github Data**
+
+> 🏆 294 Contributions in the Year 2020
+ >
+> 📦 177.9 kB Used in Github's Storage
+ >
+> 💼 Opted to Hire
+ >
+> 📜 22 Public Repositories
+ >
+> 🔑 0 Private Repository
+ >
+**I'm an Early 🐤**
+
+```text
+🌞 Morning    58 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.01%
+🌆 Daytime    125 commits    █████████░░░░░░░░░░░░░░░░   38.82%
+🌃 Evening    110 commits    ████████░░░░░░░░░░░░░░░░░   34.16%
+🌙 Night      29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.01%
+
+```
+📅 **I'm Most Productive on Monday**
+
+```text
+Monday       109 commits    ████████░░░░░░░░░░░░░░░░░   33.85%
+Tuesday      66 commits     █████░░░░░░░░░░░░░░░░░░░░   20.5%
+Wednesday    29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.01%
+Thursday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.97%
+Friday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.59%
+Saturday     20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.21%
+Sunday       64 commits     █████░░░░░░░░░░░░░░░░░░░░   19.88%
+
+```
+
+
+📊 **This Week I Spent My Time On**
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages:
+Other                    7 hrs 17 mins       ████████████████████████░   98.22%
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.76%
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+
+🔥 Editors:
+Chrome                   7 hrs 17 mins       ████████████████████████░   98.22%
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.78%
+
+🐱‍💻 Projects:
+AtifTaqi                6 hrs 25 mins       █████████████████████░░░░   86.6%
+web-todo                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16%
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+
+
+
+```
+
+
 ### ⚙️ GitHub Analytics
 
 [![](https://github-readme-stats.vercel.app/api?username=AtifTaqi&show_icons=true&theme=tokyonight&hide_border=true&width=100%&locale=en)](https://github.com/AtifTaqi)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=AtifTaqi&theme=tokyonight&hide_border=true&width=100%)](https://github.com/AtifTaqi)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+# HAVE A GOOD DAY
 
 ### ⚙️ Connect with Me
 
@@ -98,3 +174,5 @@ I am Mohammed Atif Taqi, Site Reliability Engineer from Hyderabad
 <h1 align="center">Salut! <br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"></h1>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+[![Built_With](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
